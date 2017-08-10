@@ -99,6 +99,10 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="panda" translatesAutoresizingMaskIntoConstraints="NO" id="YBG-Dr-lU7">
+                                <rect key="frame" x="67" y="408" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
@@ -126,4 +130,7 @@
             <point key="canvasLocation" x="-202.40000000000001" y="86.806596701649184"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="panda" width="624" height="416"/>
+    </resources>
 </document>
