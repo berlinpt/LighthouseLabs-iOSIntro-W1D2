@@ -18,4 +18,4 @@ Then we talked about storyboarding, and how to lay out an app.
 
 We also quickly covered one way of managing flow in a program, using an if and else blocks. These tools allow us to control the flow of our program by making decising based on the values of our data.
 
-Slides: https://docs.google.com/presentation/d/1krI3BKRjxUgpCXdQZJvINqvCa6nurcEXJQeTJrrPIis/edit#slide=id.p59
+Slides: https://docs.google.com/presentation/d/1krI3BKRjxUgpCXdQZJvINqvCa6nurcEXJQeTJrrPIis/edit?usp=sharing
